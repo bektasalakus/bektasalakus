@@ -83,7 +83,7 @@
 
 
   <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bektasalakus&&style=flat" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=bektasalakus&&style=flat-ff69b4" align="center" />
 </div> 
 </p>
 
