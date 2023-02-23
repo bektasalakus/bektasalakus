@@ -6,6 +6,10 @@
 
 
 ![snake gif](https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)
+![snake gif](git@github.com:bektasalakus/bektasalakus.git/github-contribution-grid-snake.gif)
+
+
+
 <div align="center">
   <img height="215" src="https://media3.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=ecf05e47557lzxlyefs0cf45yp1ah7k2e473kmfo8fm6mav8&rid=giphy.gif&ct=g" />
 </div>
