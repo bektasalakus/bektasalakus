@@ -3,7 +3,8 @@
 
 <h2 align="center"> QA Automation Test Engineer from Turkey</h2>
 
-<img src="https://raw.githubusercontent.com/bektasalakus/bektasalakus/blob/output/snake.svg" alt="Snake animation" />
+
+
 
 ###
 
