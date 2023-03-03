@@ -6,6 +6,7 @@
 
 ![snake gif](https://github.com/bektasalakus/bektasalakus/blob/output/github-contribution-grid-snake.gif)
 ![snake gif](https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)
+![bektasalakus snake gif](https://github.com/bektasalakus/bektasalakus/blob/output/github-contribution-grid-snake.svg)
 
 
 
