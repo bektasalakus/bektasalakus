@@ -3,7 +3,7 @@
 
 <h2 align="center"> QA Automation Test Engineer from Turkey</h2>
 
-![bektasalakus snake gif](https://github.com/bektasalakus/bektasalakus/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
