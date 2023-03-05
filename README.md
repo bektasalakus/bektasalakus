@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bektas</h1>
+<h1 align="center">Hi 👋🏻, I'm Bektas</h1>
 
 
 <h2 align="center"> QA Automation Test Engineer from Turkey</h2>
