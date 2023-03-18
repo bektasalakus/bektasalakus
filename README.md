@@ -8,6 +8,7 @@
   <div align="center">
   <img src="https://komarev.com/ghpvc/?username=bektasalakus&color=brightgreen" align="center" />
 </div> 
+
 ![bektasalakus snake gif](https://github.com/bektasalakus/bektasalakus/blob/output/github-contribution-grid-snake.svg)
 
 
