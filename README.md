@@ -1,3 +1,8 @@
+
+
+  <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=bektasalakus&color=brightgreen" align="center" />
+</div> 
 <h1 align="center">Hi 👋🏻, I'm Bektas</h1>
 
 
