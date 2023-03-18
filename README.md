@@ -87,9 +87,6 @@
 
 
 
-  <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bektasalakus&color=brightgreen" align="center" />
-</div> 
 </p>
 
 
