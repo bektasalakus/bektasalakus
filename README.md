@@ -8,9 +8,9 @@
 
  
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/bektasalakus/" target="_self">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
