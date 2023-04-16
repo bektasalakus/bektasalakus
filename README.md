@@ -1,8 +1,8 @@
 
 
 
-  <img src="https://komarev.com/ghpvc/?username=bektasalakus&color=brightgreen" align="center" />
-</div> 
+  <h1 center><img src="https://komarev.com/ghpvc/?username=bektasalakus&color=brightgreen" align="center" />
+</h1>
 
 ![bektasalakus snake gif](https://github.com/bektasalakus/bektasalakus/blob/output/github-contribution-grid-snake.svg)
 
@@ -25,22 +25,6 @@
 
 
  
-
-
-
-
-### &nbsp;GitHub Analytics
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=bektasalakus&show_icons=true&theme=radical" height="150" alt="languages graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bektasalakus&layout=compact&theme=radical" height="150" alt="stats graph"  />
-
-</div>
-
-
-
-
-</p>
 
 
 
