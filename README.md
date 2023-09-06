@@ -4,7 +4,7 @@
   <h1 align="center"><img src="https://komarev.com/ghpvc/?username=bektasalakus&color=brightgreen" align="center" />
 </h1>
 
-![snake animation](https://github.com/bektasalakus/bektasalakus/blob/output/github-contribution-grid-snake2.svg)
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/78317220/190580600-edd928b9-0191-4b8a-b1f5-b74fd09a5df4.gif)
 
 <h3 align="center">Connect with me:</h3>
 
