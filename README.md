@@ -6,7 +6,6 @@
 
 <img src="https://raw.githubusercontent.com/bektasalakus/bektasalakus/output/snake.svg" alt="Snake animation" />
 
-###
 
 <h3 align="center">Connect with me:</h3>
 
