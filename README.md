@@ -4,7 +4,6 @@
   <h1 align="center"><img src="https://komarev.com/ghpvc/?username=bektasalakus&color=brightgreen" align="center" />
 </h1>
 
-<img src="https://raw.githubusercontent.com/bektasalakus/bektasalakus/output/snake.svg" alt="Snake animation" />
 
 
 <h3 align="center">Connect with me:</h3>
